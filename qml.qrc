@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Laba1.qml</file>
+        <file>Property.qml</file>
+        <file>ChangeColor.qml</file>
+        <file>main.qml</file>
+        <file>ButtonForColor.qml</file>
+        <file>ConsoleView.qml</file>
+        <file>Laba2.qml</file>
+        <file>ButtonMenu.qml</file>
+        <file>Laba3.qml</file>
+        <file>WaitEcran.qml</file>
+        <file>Laba4.qml</file>
+        <file>Laba5.qml</file>
+        <file>Laba6.qml</file>
+        <file>EcranUpArrowKey.qml</file>
+        <file>EcranFunc.qml</file>
+    </qresource>
+</RCC>
